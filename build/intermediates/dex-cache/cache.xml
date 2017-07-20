@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\YASWITHA\AndroidStudioProjects\Steel\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\YASWITHA\AndroidStudioProjects\Steel\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_af8beb630fe885a43c16020a327bebc07f9cc758\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YASWITHA\AndroidStudioProjects\Steel\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="729600baae9ea1729a6212f0bd0d725a0227e217">
+        <dex dex="C:\Users\YASWITHA\AndroidStudioProjects\Steel\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_04e07e4a4983c67331086a4224d6a069fd26230e\classes.dex" />
+    </item>
+
+</items>
